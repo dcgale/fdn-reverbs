@@ -5,7 +5,7 @@ A curated list of papers and code on delay-network-based artificial reverberatio
 Made public on Friday, November 14th, 2025.   
 Last edit to the list on December 30th, 2025.
 
-See also: [ADC25 talk](https://youtu.be/P604tjJURLc?si=y6h9sRaryGfM3s9O)
+See also: Gloria's [ADC25 talk](https://youtu.be/P604tjJURLc?si=y6h9sRaryGfM3s9O) and [Scholar profile](https://scholar.google.com/citations?user=R4t4SIsAAAAJ&hl=en)
 
 ## Contents
 - [Toolboxes and libraries](#toolboxes-and-libraries)
